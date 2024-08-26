@@ -4,6 +4,6 @@
 
 ## Level 2 Heading
 
-- RIT
+- RIT - https://www.rit.edu/
 - Google
 - Bing
