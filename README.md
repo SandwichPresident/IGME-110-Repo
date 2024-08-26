@@ -3,3 +3,7 @@
 ---
 
 ## Level 2 Heading
+
+-RIT
+-Google
+-Bing
