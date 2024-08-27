@@ -17,7 +17,7 @@
 13. Axoltl
 14. Otters
 15. Manatees
-16. ![Highland Cows](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmilkandhoneyranch.com%2Fproduct%2Fcuddle-a-mini-highland-cow-penny%2F&psig=AOvVaw1hsza1B8H7TqXaEC3EGvr_&ust=1724863645605000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCxnPnPlYgDFQAAAAAdAAAAABAE)
+16. [Highland Cows](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmilkandhoneyranch.com%2Fproduct%2Fcuddle-a-mini-highland-cow-penny%2F&psig=AOvVaw1hsza1B8H7TqXaEC3EGvr_&ust=1724863645605000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCxnPnPlYgDFQAAAAAdAAAAABAE)
 17. [Penguins](https://www.aquarium.co.za/news/28-types-of-penguin-the-only-list-youll-ever-need)
 18. Ducks
 19. Goose
