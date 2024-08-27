@@ -4,7 +4,7 @@
 
 1. **Raccoons**
 2. **Sloths**
-3. **Bears**
+3. [**Bears**](https://bearwithus.org/8-bears-of-the-world/)
 4. Tigers
 5. Ferrets
 6. Monkeys & Apes
