@@ -1,6 +1,6 @@
 # My Listicle
 
-## Top 25 Animals (In no particular order)
+## An Inconclusive List of Animals (In no particular order)
 
 1. **Raccoons**
 2. **Sloths**
@@ -12,18 +12,18 @@
 8. Red Pandas
 9. Foxes
 10. Platapi
-11. Bats
+11. [Bats](https://en.wikipedia.org/wiki/List_of_bats)
 12. Hedgehogs
 13. Axoltl
 14. Otters
 15. Manatees
 16. Highland Cows
-17. Penguins
+17. [Penguins](https://www.aquarium.co.za/news/28-types-of-penguin-the-only-list-youll-ever-need)
 18. Ducks
 19. Goose
-20. Owls
+20. [Owls](https://abcbirds.org/blog20/owl-species-united-states/)
 21. Crows
 22. Ravens
-23. Snakes
-24. Turtles
-25. Dinosaurs
+23. [Snakes](https://reptilesmagazine.com/snake-species/)
+24. [Turtles](https://www.britannica.com/animal/turtle-reptile)
+25. [Dinosaurs](https://www.amnh.org/dinosaurs/types-of-dinosaurs)
