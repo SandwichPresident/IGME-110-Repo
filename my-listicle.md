@@ -7,7 +7,7 @@
 3. [**Bears**](https://bearwithus.org/8-bears-of-the-world/)
 4. Tigers
 5. Ferrets
-6. Monkeys & Apes
+6. [Primates](https://apenheul.com/primates-abc)
 7. Badgers
 8. Red Pandas
 9. Foxes
