@@ -2,9 +2,9 @@
 
 ## Top 25 Animals (In no particular order)
 
-1. Raccoons
-2. Sloths
-3. Bears
+1. **Raccoons**
+2. **Sloths**
+3. **Bears**
 4. Tigers
 5. Ferrets
 6. Monkeys & Apes
