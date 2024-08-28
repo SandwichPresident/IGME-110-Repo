@@ -69,5 +69,5 @@
 67. Clownfish
 68. Seals
 69. Snails
-70. Chameleon
+70. Chameleons
 71. [Dinosaurs](https://www.amnh.org/dinosaurs/types-of-dinosaurs)
