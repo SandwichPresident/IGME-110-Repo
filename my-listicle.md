@@ -35,7 +35,7 @@
 31. Koalas
 32. Kangaroos
 33. Chinchillas
-34. Wolfs
+34. ![Wolves](md-images/wolf.jpg)
 35. Dogs
 36. Cats
 37. Octopi
