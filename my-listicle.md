@@ -42,7 +42,7 @@
 39. Whales
 40. Dolphins
 41. Jellyfish
-43. Horses
+42. Horses
 44. Regular cows
 45. Deer
 46. Moose
@@ -68,4 +68,6 @@
 66. Beavers
 67. Clownfish
 68. Seals
-69. [Dinosaurs](https://www.amnh.org/dinosaurs/types-of-dinosaurs)
+69. Snails
+70. Chameleon
+71. [Dinosaurs](https://www.amnh.org/dinosaurs/types-of-dinosaurs)
